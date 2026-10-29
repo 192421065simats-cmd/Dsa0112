@@ -1,7 +1,7 @@
 # DSA01-REGISTER_NUMBER-Assignment1
 
-**Student:** Santosh M.  
-**Register Number:** REPLACE_WITH_REGISTER_NUMBER  
+**Student:** G Yuvaraj.  
+**Register Number:192421065**
 **Assignment:** CO1 — Design, Implement and Validate the Fare Logic of a City Metro Smart-Card System  
 **Compiler tested:** GCC g++ 14.2.0 (Linux x86-64 container)  
 **Standard/flags:** `g++ -std=c++17 -Wall -Wextra -pedantic`

@@ -1,8 +1,8 @@
 # ASSIGNMENT 1 REPORT
 
 **Title:** Design, Implement and Validate the Fare Logic of a City Metro Smart-Card System  
-**Student:** Santosh M.  
-**Register Number:** REPLACE_WITH_REGISTER_NUMBER  
+**Student:** G Yuvaraj.  
+**Register Number:192421065** REPLACE_WITH_REGISTER_NUMBER  
 **Course Outcome:** CO1  
 **Compiler used for verification:** GCC g++ 14.2.0, C++17, Linux x86-64  
 **Repository:** DSA01-REGISTER_NUMBER-Assignment1 (replace placeholder with actual register number)

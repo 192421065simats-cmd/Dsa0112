@@ -44,4 +44,3 @@ The local repository is initialized with one commit per task. To publish it, cre
 git remote add origin https://github.com/YOUR_USERNAME/DSA01-<RegisterNumber>-Assignment1.git
 git push -u origin main
 ```
-Add the faculty as collaborator if the repository is private. Submit the working repository URL and the assignment report through Google Classroom. This local preparation does not itself publish to GitHub or submit to Classroom.

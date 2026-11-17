@@ -1,0 +1,106 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task01/q1.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task01/task01
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task01/task01
+PREDICTED OUTPUT (before execution):
+1 12 13
+1 100
+16 13 6
+OBSERVED OUTPUT:
+1 12 13
+1 100
+16 13 6 
+after call by value   : 45000
+after call by reference: 40500
+after call by pointer  : 36450
+returned new fee       : 32805
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/q2.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/task02
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/q2.cpp: In function ‘int& danglingReference()’:
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/q2.cpp:26:12: warning: reference to local variable ‘local’ returned [-Wreturn-local-addr]
+   26 |     return local;
+      |            ^~~~~
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/q2.cpp:25:9: note: declared here
+   25 |     int local = 99;
+      |         ^~~~~
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/task02
+Highest before moderation: 91
+Highest after +2: 93
+Read-only highest: 93
+Copied highest: 93
+Index identifies element 1
+Pointer value: 95
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task03/q3.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task03/task03
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task03/task03
+charge(2) [int grams]: 0.08
+charge(2.0) [double kg]: 80
+charge(2.0f) [float kg]: 80
+charge(2000) [int grams]: 80
+charge(2.0, true) [double + express]: 130
+charge(Parcel) [object]: 150
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task04/q4.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task04/task04
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task04/task04
+Account: 192421065 Balance: 1600
+Recent transactions (10):
+Deposit: +10.000000
+Deposit: +20.000000
+Deposit: +30.000000
+Deposit: +40.000000
+Deposit: +50.000000
+Deposit: +60.000000
+Deposit: +70.000000
+Deposit: +80.000000
+Deposit: +90.000000
+Deposit: +100.000000
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task05/q5.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task05/task05
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task05/task05
+101 103 104 4
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task06/q6.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task06/task06
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task06/task06
+205 false
+2 true false
+
+
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/G_Yuvaraj_192421065_Assignment2/Task07/q7.cpp -o /mnt/data/G_Yuvaraj_192421065_Assignment2/Task07/task07
+
+
+$ /mnt/data/G_Yuvaraj_192421065_Assignment2/Task07/task07
+Transactions inserted: 200000
+Shift design retained: 10
+Circular design retained: 10
+Shift insertion time (microseconds): 29728
+Circular insertion time (microseconds): 12939
+
+
+Q2 deliberately unsafe reference compiler diagnostic:
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/unsafe_warning.cpp: In function ‘int& bad()’:
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/unsafe_warning.cpp:2:36: warning: reference to local variable ‘local’ returned [-Wreturn-local-addr]
+    2 | int& bad() { int local = 7; return local; }
+      |                                    ^~~~~
+/mnt/data/G_Yuvaraj_192421065_Assignment2/Task02/unsafe_warning.cpp:2:18: note: declared here
+    2 | int& bad() { int local = 7; return local; }
+      |                  ^~~~~

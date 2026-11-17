@@ -1,0 +1,12 @@
+Account: 192421065 Balance: 1600
+Recent transactions (10):
+Deposit: +10.000000
+Deposit: +20.000000
+Deposit: +30.000000
+Deposit: +40.000000
+Deposit: +50.000000
+Deposit: +60.000000
+Deposit: +70.000000
+Deposit: +80.000000
+Deposit: +90.000000
+Deposit: +100.000000

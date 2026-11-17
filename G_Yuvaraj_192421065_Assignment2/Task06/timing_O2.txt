@@ -1,0 +1,3 @@
+Plain non-inlined member calls (microseconds): 16808
+Inline member calls (microseconds): 2938
+Sink: 70000000

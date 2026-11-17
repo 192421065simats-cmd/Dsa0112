@@ -1,0 +1,5 @@
+Transactions inserted: 200000
+Shift design retained: 10
+Circular design retained: 10
+Shift insertion time (microseconds): 29728
+Circular insertion time (microseconds): 12939

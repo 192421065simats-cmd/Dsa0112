@@ -1,0 +1,6 @@
+Highest before moderation: 91
+Highest after +2: 93
+Read-only highest: 93
+Copied highest: 93
+Index identifies element 1
+Pointer value: 95

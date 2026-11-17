@@ -1,0 +1,12 @@
+PREDICTED OUTPUT (before execution):
+1 12 13
+1 100
+16 13 6
+OBSERVED OUTPUT:
+1 12 13
+1 100
+16 13 6 
+after call by value   : 45000
+after call by reference: 40500
+after call by pointer  : 36450
+returned new fee       : 32805

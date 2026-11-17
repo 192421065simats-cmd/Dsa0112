@@ -1,0 +1,6 @@
+charge(2) [int grams]: 0.08
+charge(2.0) [double kg]: 80
+charge(2.0f) [float kg]: 80
+charge(2000) [int grams]: 80
+charge(2.0, true) [double + express]: 130
+charge(Parcel) [object]: 150

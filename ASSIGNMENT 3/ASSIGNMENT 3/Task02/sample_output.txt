@@ -1,0 +1,4 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS

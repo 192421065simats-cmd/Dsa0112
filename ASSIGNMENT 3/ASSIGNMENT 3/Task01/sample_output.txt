@@ -1,0 +1,7 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Title: Untitled, Author: Unknown, Copies: 0
+Title: The C++ Primer, Author: Unknown, Copies: 0
+Title: Clean Code, Author: Robert C. Martin, Copies: 3
+Rejected: copies cannot be negative

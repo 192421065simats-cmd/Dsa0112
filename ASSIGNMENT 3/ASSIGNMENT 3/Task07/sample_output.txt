@@ -1,0 +1,9 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Resistor: 100 + j0, |Z|=100
+Inductor: 0 + j31.4159, |Z|=31.4159
+Capacitor: 0 - j31.831, |Z|=31.831
+Series RLC: 100 - j0.415062, |Z|=100.001
+Parallel R-L: 8.98302 + j28.5938, |Z|=29.9717
+Safe error: division by zero impedance

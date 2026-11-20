@@ -1,0 +1,11 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Opened event 2x3
+Opened event 1x2
+Closed event; bookings remaining: 1
+Opened event 2x2
+Closed event; bookings remaining: 1
+Opened event 0x5
+Closed event; bookings remaining: 0
+Closed event; bookings remaining: 1

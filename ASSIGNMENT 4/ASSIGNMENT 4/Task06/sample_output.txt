@@ -1,0 +1,11 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Bicycle BI-101 rate=100
+TwoWheeler TW-202 fuel=5 service=2027-01-10 rate=250
+Car CA-303 seats=5 fuel=20 rate=1200
+Car EV-404 seats=5 fuel=80 rate=1500
+  Electric battery=60kWh price/kWh=8
+ElectricBus EB-505 seats=30 charge-level=90 rate=3000
+Rent CA-303: true
+Return CA-303 after 2 late days: Rs 2600

@@ -1,0 +1,5 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Student lifetime: Address+ Person+ Course+ Student+ 192311001 Kavya (19) Salem-636001
+Student- Course- Person- Address- 

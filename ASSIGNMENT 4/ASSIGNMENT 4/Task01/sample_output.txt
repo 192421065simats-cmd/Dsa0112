@@ -1,0 +1,6 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Anita (101) pay=83000
+Bala (102) pay=42600
+Charan (103) pay=32000

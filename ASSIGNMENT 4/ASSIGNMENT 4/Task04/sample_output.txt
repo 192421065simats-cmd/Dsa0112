@@ -1,0 +1,8 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+3.5
+4
+Account destroyed
+SeniorAccount destroyed
+Account destroyed

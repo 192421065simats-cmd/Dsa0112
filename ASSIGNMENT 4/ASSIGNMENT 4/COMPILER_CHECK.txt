@@ -1,0 +1,7 @@
+g++ (Debian 14.2.0-19) 14.2.0
+Task01: OK
+Task02: OK
+Task03: OK
+Task04: OK
+Task05: OK
+Task06: OK

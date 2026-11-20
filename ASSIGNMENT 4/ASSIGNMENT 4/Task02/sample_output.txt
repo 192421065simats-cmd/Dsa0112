@@ -1,0 +1,5 @@
+Compiler: g++ (Debian 14.2.0-19) 14.2.0
+Command: g++ -std=c++17 -Wall -Wextra -pedantic main.cpp
+
+Kavya ID=201 Phone=9876543210 Programme=CSE CGPA=8.7 Department=IT Salary=35000
+Arun ID=202 Phone=9123456780 Programme=ECE CGPA=9.1 Fellowship=18000

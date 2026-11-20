@@ -1,0 +1,2 @@
+OP total=1700 selfpay_cover=1700 corporate_cover=1530
+Telemedicine total=900 selfpay_cover=900 corporate_cover=810

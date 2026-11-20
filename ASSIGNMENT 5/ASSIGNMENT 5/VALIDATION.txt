@@ -1,0 +1,39 @@
+Task01/main.cpp: compile exit=0; warnings/errors=none
+
+Task01/main.cpp: run exit=0
+OP Ravi: 1700
+IP Meena: 47500
+DayCare Arun: 18000
+Emergency Latha: 4000
+Total 71200
+
+
+Task02/main.cpp: compile exit=0; warnings/errors=none
+
+Task02/main.cpp: run exit=0
+approved 40000
+approved audit: exceeds cover
+claim rejected: exceeds cover
+approved error: negative amount
+
+
+Task03/main.cpp: compile exit=0; warnings/errors=none
+
+Task03/main.cpp: run exit=0
+n=1000 virtual_ms=0 switch_ms=0 checksum_virtual=50020850000
+Note: repeat at 1000, 1000000 and 10000000; report medians from multiple runs.
+
+
+Task03/exception_cost.cpp: compile exit=0; warnings/errors=none
+
+Task03/exception_cost.cpp: run exit=0
+0% invalid: return_code_ms=0 exceptions_ms=0 invalid_count=0
+1% invalid: return_code_ms=0 exceptions_ms=5 invalid_count=10000
+50% invalid: return_code_ms=0 exceptions_ms=280 invalid_count=500000
+
+
+Task04/main.cpp: compile exit=0; warnings/errors=none
+
+Task04/main.cpp: run exit=0
+OP total=1700 selfpay_cover=1700 corporate_cover=1530
+Telemedicine total=900 selfpay_cover=900 corporate_cover=810

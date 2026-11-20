@@ -1,0 +1,4 @@
+B2 prediction program (the validate/process example):
+ok done caught negative ok [log too large] caught too large
+
+Explanation: 100 passes validation, then prints done. -5 throws invalid_argument; process only catches out_of_range, so it propagates to main's std::exception handler without a log. 2e6 throws out_of_range; process logs it and uses bare throw; main catches it. Only out_of_range is logged.
